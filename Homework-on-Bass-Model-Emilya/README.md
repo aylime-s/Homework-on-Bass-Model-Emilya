@@ -1,4 +1,4 @@
-Homework: Bass Diffusion Model – Antigravity A1 Drone
+##Homework: Bass Diffusion Model – Antigravity A1 Drone
 
 Course: Marketing Analytics
 
