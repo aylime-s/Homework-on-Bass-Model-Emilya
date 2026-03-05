@@ -1,11 +1,8 @@
 # Homework-on-Bass-Model-Emilya
 Bass diffusion analysis for Antigravity A1
 
-## Directory Structure
+## Structure
 
-## Directory Structure
-
-## Directory Structure
 
 Homework-on-Bass-Model-Emilya/
 ├─ data/                 
