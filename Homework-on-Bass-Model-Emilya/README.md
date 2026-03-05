@@ -5,6 +5,9 @@ Bass diffusion analysis for Antigravity A1
 
 ## Directory Structure
 
+## Directory Structure
+
+Homework-on-Bass-Model-Emilya/
 ├─ data/                 
 │   ├─ statistic_id1399076_volume-of-thedrone-market-worldwide-2018-2030.xlsx
 │   ├─ bass_parameters.csv
