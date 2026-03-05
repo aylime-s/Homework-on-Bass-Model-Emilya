@@ -4,7 +4,7 @@ Course: Marketing Analytics
 
 Student: Emilya Sepoyan
 
-Project Overview
+## Project Overview
 
 Analysis of the potential market diffusion for the **Antigravity A1 drone (2025)**. This project uses historical global drone market data to estimate Bass model parameters (innovation coefficient `p`, imitation coefficient `q`, and market potential `M`) and predict the adoption path of the Antigravity A1 over time. The analysis includes visualizations, forecast tables, and a detailed report.
 
